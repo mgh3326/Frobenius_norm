@@ -28,6 +28,7 @@ int main()
     output = sqrt(output);
 
     printf("Frobenius nrom Àº %lf\n", output);
+    return 0;
 }
 
 // 11	12	13
